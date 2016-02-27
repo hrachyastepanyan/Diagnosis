@@ -25,3 +25,6 @@ In order to have application running you need to install dependancies. Go to loc
 ### 2. Open application with Xcode and Run
 
 After installing dependancies `Diagnosis.xcworkspace` file will be generated. Use `Diagnosis.xcworkspace` to open project with Xcode.
+
+Core lib is complitly independent and placed in `Model/DiagnosticKit` folder.
+
